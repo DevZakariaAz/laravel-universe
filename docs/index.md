@@ -30,7 +30,7 @@ By the end of this week, you will be able to:
 - **Blade Views:** How to create dynamic templates.
 - **Controllers:** The heart of your application logic.
 
-### 3. Creation of Our Real Estate Site:
+### 3. a:
 - **Home Page:** Presentation of the agency, latest properties.
 - **“About” Page:** History, team, values.
 - **Contact Form:** Sending an email.
