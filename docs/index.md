@@ -9,7 +9,10 @@
 - **Étude de la concurrence:** Quels sont les points forts et les faiblesses des sites similaires ?
 
 - **Création d'un cahier des charges:** Ce document récapitule l'ensemble des besoins et des fonctionnalités du site.
-
+## 2- Branche technique (les tutos)
+- Tuto 1 :...
+- Tuto 2 :...
+- Tuto 3 :...
 ## 2. Conception de l'architecture du site
 
 - **Structuration du contenu:** Comment organiser les informations pour faciliter la navigation ?
