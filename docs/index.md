@@ -13,7 +13,7 @@
 - Tuto 1 :...
 - Tuto 2 :...
 - Tuto 3 :...
-## 2. Conception de l'architecture du site
+## 3. Conception de l'architecture du site
 
 - **Structuration du contenu:** Comment organiser les informations pour faciliter la navigation ?
 
@@ -21,7 +21,7 @@
 
 - **Définition de l'arborescence:** Organisation hiérarchique des pages.
 
-## 3. Conception graphique
+## 4. Conception graphique
 
 - **Création de la maquette:** Réalisation d'un modèle visuel de chaque page.
 
@@ -29,7 +29,7 @@
 
 - **Intégration de l'identité visuelle:** Utilisation des éléments graphiques de votre marque.
 
-## 4. Développement technique
+## 5. Développement technique
 
 - **Choix de la technologie:** CMS (WordPress, Joomla), HTML, CSS, JavaScript...
 
@@ -37,13 +37,13 @@
 
 - **Développement des fonctionnalités:** Mise en place des fonctionnalités spécifiques (formulaires, e-commerce...).
 
-## 5. Rédaction des contenus
+## 6. Rédaction des contenus
 
 - **Création des textes:** Rédaction de contenus clairs, concis et optimisés pour le SEO.
 
 - **Choix des images et vidéos:** Sélection de visuels de qualité et pertinents.
 
-## 6. Optimisation pour les moteurs de recherche (SEO)
+## 7. Optimisation pour les moteurs de recherche (SEO)
 
 - **Recherche de mots-clés:** Identification des termes les plus pertinents pour votre activité.
 
@@ -51,7 +51,7 @@
 
 - **Création de liens:** Liens internes et externes pour améliorer le référencement.
 
-## 7. Tests et corrections
+## 8. Tests et corrections
 
 - **Vérification du fonctionnement:** Assurer que toutes les fonctionnalités fonctionnent correctement.
 
@@ -59,7 +59,7 @@
 
 - **Test sur différents navigateurs:** Vérifier l'affichage sur tous les navigateurs (Chrome, Firefox, Edge...).
 
-## 8. Mise en ligne
+## 9. Mise en ligne
 
 - **Hébergement:** Choix d'un hébergeur fiable.
 
@@ -67,7 +67,7 @@
 
 - **Configuration des DNS:** Association du nom de domaine à l'hébergement.
 
-## 9. Suivi et amélioration
+## 10. Suivi et amélioration
 
 - **Analyse des statistiques:** Suivi du trafic et du comportement des utilisateurs.
 
