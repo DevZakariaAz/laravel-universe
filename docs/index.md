@@ -9,17 +9,17 @@
 - **Étude de la concurrence:** Quels sont les points forts et les faiblesses des sites similaires ?
 
 - **Création d'un cahier des charges:** Ce document récapitule l'ensemble des besoins et des fonctionnalités du site.
+
 ## 2- Branche technique (les tutos)
 - Tuto 1 :...
 - Tuto 2 :...
 - Tuto 3 :...
+
 ## 3. Conception de l'architecture du site
 
 - **Structuration du contenu:** Comment organiser les informations pour faciliter la navigation ?
 
 - **Création d'un plan du site:** Représentation graphique de la structure du site (sitemap).
-
-- **Définition de l'arborescence:** Organisation hiérarchique des pages.
 
 ## 4. Conception graphique
 
@@ -27,7 +27,6 @@
 
 - **Choix de la charte graphique:** Définition des couleurs, des typographies et des images.
 
-- **Intégration de l'identité visuelle:** Utilisation des éléments graphiques de votre marque.
 
 ## 5. Développement technique
 
