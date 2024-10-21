@@ -36,13 +36,7 @@
 
 - **Développement des fonctionnalités:** Mise en place des fonctionnalités spécifiques (formulaires, e-commerce...).
 
-## 6. Rédaction des contenus
-
-- **Création des textes:** Rédaction de contenus clairs, concis et optimisés pour le SEO.
-
-- **Choix des images et vidéos:** Sélection de visuels de qualité et pertinents.
-
-## 7. Optimisation pour les moteurs de recherche (SEO)
+## 6. Optimisation pour les moteurs de recherche (SEO)
 
 - **Recherche de mots-clés:** Identification des termes les plus pertinents pour votre activité.
 
@@ -50,7 +44,7 @@
 
 - **Création de liens:** Liens internes et externes pour améliorer le référencement.
 
-## 8. Tests et corrections
+## 7. Tests et corrections
 
 - **Vérification du fonctionnement:** Assurer que toutes les fonctionnalités fonctionnent correctement.
 
@@ -58,7 +52,7 @@
 
 - **Test sur différents navigateurs:** Vérifier l'affichage sur tous les navigateurs (Chrome, Firefox, Edge...).
 
-## 9. Mise en ligne
+## 8. Mise en ligne
 
 - **Hébergement:** Choix d'un hébergeur fiable.
 
@@ -66,7 +60,7 @@
 
 - **Configuration des DNS:** Association du nom de domaine à l'hébergement.
 
-## 10. Suivi et amélioration
+## 9. Suivi et amélioration
 
 - **Analyse des statistiques:** Suivi du trafic et du comportement des utilisateurs.
 
