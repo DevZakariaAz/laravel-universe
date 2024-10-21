@@ -3,11 +3,6 @@
 
 
 
-### **Realise par** : 
-Zakaria Azizi , Fahd Suirita, Oussama Bardich, Jarane Hamza, Tamraoui Abdelouahab 
-
-### **Encadrée par :**
-Mr.ESSARRAJ Fouad
 
 ---
 {% assign pages = site.pages | sort: "order" %}

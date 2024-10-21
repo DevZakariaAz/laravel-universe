@@ -6,6 +6,5 @@ order: 5
 
 ## 5. Développement technique
 
-- **Choix de la technologie:** CMS (WordPress, Joomla), HTML, CSS, JavaScript...
-
-- **Codage du site:** Création des pages et intégration des éléments graphiques.
+### 5.1 - Choix de la technologie :
+### 5.2 - Codage du site :

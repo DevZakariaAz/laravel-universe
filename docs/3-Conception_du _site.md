@@ -5,6 +5,6 @@ order: 3
 
 ## 3. Conception de l'architecture du site
 
-- **Structuration du contenu:** Comment organiser les informations pour faciliter la navigation ?
 
-- **Création d'un plan du site:** Représentation graphique de la structure du site (sitemap).
+### 3.1 - Structuration du contenu :
+### 3.2 - Création d'un plan du site ( SiteMap ) :

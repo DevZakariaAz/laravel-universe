@@ -5,10 +5,29 @@ order: 2
 
 ## 2- Analyse et planification
 
-- **Définition des objectifs:** Quel est le but de votre site ? Vendre, informer, créer une communauté ?
+### 2.1 - Définition des objectifs :
 
-- **Identification du public cible:** Qui souhaitez-vous atteindre avec votre site ?
+### 2.2 - Identification du public cible :
 
-- **Étude de la concurrence:** Quels sont les points forts et les faiblesses des sites similaires ?
+### 2.3 - Étude de la concurrence :
 
-- **Création d'un cahier des charges:** Ce document récapitule l'ensemble des besoins et des fonctionnalités du site.
+### 2.4 - Cahier des charges :
+**Objectif :** Créer un site web simple pour une agence immobilière.
+
+**Fonctionnalités :**
+* Page d'accueil avec présentation de l'agence et des services
+* Page "À propos" avec informations sur l'agence
+* Formulaire de contact pour les clients
+* Section pour afficher les propriétés disponibles
+
+**Design :**
+* Design moderne et attractif
+* Facile à naviguer
+* Responsive pour s'adapter à différents appareils
+
+**Technologie :**
+* Utiliser le framework Laravel
+* Pas besoin de base de données pour ce projet simple
+
+**Délai :**
+* Développer le site dans un délai de 1 semaine.
