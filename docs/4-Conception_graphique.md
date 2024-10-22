@@ -6,8 +6,8 @@ order: 4
 ## 4. Conception graphique
 
 ### 4.1 - Création de la maquette :
-
 ### 4.2 - Choix de la charte graphique :
+
 #### charte graphique pour un site d'agence immobilière:
 1. **Les Couleurs :** 
     - Beige  : Confiance et fiabilité , la Chaleur , Polyvalence
