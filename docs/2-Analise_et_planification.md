@@ -6,12 +6,10 @@ order: 2
 ## 2- Analyse et planification
 
 ### 2.1 - Définition des objectifs :
-
 ### 2.2 - Identification du public cible :
-
 ### 2.3 - Étude de la concurrence :
-
 ### 2.4 - Cahier des charges :
+
 **Objectif :** Créer un site web simple pour une agence immobilière.
 
 **Fonctionnalités :**

@@ -9,6 +9,7 @@ order: 4
 ### 4.2 - Choix de la charte graphique :
 
 #### charte graphique pour un site d'agence immobilière:
+La charte graphique est un document qui définit l'identité visuelle de l'agence immobilière fictive. Elle comprend des éléments comme le logo, les couleurs, les polices et les styles graphiques.
 1. **Les Couleurs :** 
     - Beige  : Confiance et fiabilité , la Chaleur , Polyvalence
     - Marron : Nature et confort .
