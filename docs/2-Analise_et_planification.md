@@ -7,20 +7,8 @@ order: 2
 
 ### 2.1 - Définition des objectifs :
 ### 2.2 - Identification du public cible :
-**Produit :** Un site web basique pour une agence immobilière fictive au Maroc, développé avec Laravel sans base de données.
 
-#### Identification du public cible :
-- **Groupe d'âge :** 27-60 ans
-- **Genre :** Hommes et femmes
-- **Profession :** Propriétaires immobiliers, acheteurs potentiels, locataires
-- **Localisation :** Principalement au Maroc, dans des villes comme Casablanca, Rabat, Marrakech, Tanger
-- **Revenu :** Moyen à élevé
-- **Niveau d'éducation :** Variable, mais au moins un niveau secondaire ou supérieur
-- **Intérêts :** Recherche de biens immobiliers (vente ou location), gestion de patrimoine immobilier, investissement immobilier
-- **Objectifs :** Trouver un bien à acheter ou à louer, comparer les prix, obtenir des informations sur les biens disponibles dans les différentes régions
-- **Comportements :** Les utilisateurs veulent naviguer facilement sur le site, accéder aux informations de manière rapide et claire (même sans base de données). Ils cherchent à voir les offres actuelles, les photos des biens, et des détails tels que la localisation, le prix et les caractéristiques du bien.
-
-Dans ce contexte, le site doit être simple et intuitif, avec une interface agréable et des informations claires pour attirer les utilisateurs potentiels et leur permettre de trouver facilement ce qu'ils recherchent, sans nécessité d'interactions complexes avec une base de données.
+Le site web de cette agence immobilière fictive sera utilisé par des personnes au Maroc cherchant à acheter, vendre ou louer une maison ou un appartement. Les utilisateurs pourront consulter les annonces et obtenir des détails sur les biens disponibles. Le but est de leur permettre de trouver facilement des maisons ou des appartements qui les intéressent et de contacter l'agence pour plus d'informations, tout cela grâce à une navigation simple sur le site.
 
 ### 2.3 - Étude de la concurrence :
 ### 2.4 - Cahier des charges :
