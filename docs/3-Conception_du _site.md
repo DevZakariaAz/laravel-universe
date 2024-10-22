@@ -24,4 +24,6 @@ Témoignages de clients (simulés).
 - Validation côté serveur des champs du formulaire.
 - Envoi de l’email à une adresse prédéfinie.
 
+lien de Figma : [***Figma Templates***](https://www.figma.com/design/SE1vem7DgnxTEThz7zdI9A/Site-Map-(Community)?node-id=0-1&t=ZPuEU4qF8Zg5Tv6b-1)
+
 ![alt text](site_map.png)
