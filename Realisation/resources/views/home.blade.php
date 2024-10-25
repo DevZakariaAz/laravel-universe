@@ -39,7 +39,7 @@
                                     Award winning real estate company in <span class="text-6xl font-extrabold">Morocco</span>
                                 </h2>
                                 <p class="mt-5 text-lg leading-6 text-stone-300 max-md:max-w-full">
-                                    Semper arcu mauris aliquam lacus. Massa erat vitae ultrices pharetra scelerisque. Ipsum, turpis facilisis tempor pulvinar in lobortis ornare magna.
+                                    Semper arcu mauris aliquam lacus. Massa erat pharetra scelerisque. Ipsum, turpis facilisis tempor pulvinar in lobortis ornare magna.
                                 </p>
                                 <div class="flex flex-wrap gap-10 mt-10 leading-tight max-md:mr-2.5">
                                     <div class="flex flex-col flex-1">
