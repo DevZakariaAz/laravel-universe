@@ -1,4 +1,4 @@
-@extends('layouts.appcontact')
+@extends('layouts.app2')
 
 @section('content')
     <main class="flex flex-col justify-center items-center px-16 py-24 w-full bg-white max-md:px-5 max-md:max-w-full">
