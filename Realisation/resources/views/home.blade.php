@@ -1,5 +1,4 @@
 @extends('layouts.app')
-
 @section('content')
     <main>
         <section class="flex flex-col items-center px-20 pb-36 w-full bg-white max-md:px-5 max-md:pb-24 max-md:max-w-full">
